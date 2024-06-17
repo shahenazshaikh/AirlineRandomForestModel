@@ -6,19 +6,6 @@ Random forests are widely recognized for their ability to reduce variance, bias,
 
 The primary goal is to predict whether a customer will be satisfied with their flight experience using a random forest model. This project begins with exploratory data analysis (EDA), data cleaning, and necessary manipulations to prepare the dataset for modeling.
 
-## **Project Structure**
-
-- **`data/`**: Contains the dataset used for the analysis.
-  - `survey_responses.csv`: The dataset with customer survey responses.
-- **`notebooks/`**: Jupyter notebooks documenting the project workflow.
-  - `random_forest_modeling.ipynb`: Main notebook for data analysis, cleaning, and random forest modeling.
-- **`scripts/`**: Python scripts used for data processing and modeling.
-  - `data_preprocessing.py`: Script for cleaning and preprocessing the data.
-  - `random_forest_model.py`: Script for training and evaluating the random forest model.
-- **`reports/`**: Generated analysis and model evaluation reports.
-  - `model_evaluation.pdf`: Detailed evaluation of the random forest model’s performance.
-- **`README.md`**: Project overview and instructions (this file).
-
 ## **Setup and Usage**
 
 ### **Prerequisites**
